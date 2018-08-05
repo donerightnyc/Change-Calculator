@@ -3,4 +3,4 @@ This app could be used in a cash register. When the item price is inputted, alon
 
 
 ## Sample
-<img src="./images/Sample.png" />
+<img src="./images/samplee.png" />
