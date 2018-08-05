@@ -75,7 +75,7 @@ function moneyBack(itemPrice, billGiven) {
 
 	returnedMoney = returnedMoney.slice(0, -2);
 
-	let returnedMessage = 'Your change is:' + returnedMoney;
+	let returnedMessage = 'Your change is: ' + returnedMoney;
 
 	document.getElementById('answerMessage').innerHTML = returnedMessage;
 
