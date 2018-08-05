@@ -1,0 +1,39 @@
+body{
+	background-color: black;
+}
+
+.inputBox{
+	heigh: 300px;
+	color:
+	background-color: black;
+	font-size: 30Pt;
+}
+
+.button{
+	font-size: 20pt;
+	background-color: black;
+	color: lime;
+}
+
+#answerMessage {
+  color: orange;
+	font-size: 40pt;
+	padding-top: 20px;
+}
+
+#itemPrice {
+	background-color: black;
+	color: yellow;
+	width: 9%;
+}
+
+#billGiven{
+	background-color: black;
+	color: yellow;
+	width: 9%;
+}
+
+.title {
+	color: violet;
+	font-size: 15pt;
+}

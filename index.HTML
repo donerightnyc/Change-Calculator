@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="css/homeStyling.css">
+	<title>Vending Machine</title>
+</head>
+<body>
+
+	<center>
+
+		<p class="title">Item Price</p>
+		<input type="text" name="" id="itemPrice" class="inputBox">
+		<p class="title">Bill Given</p>
+		<input type="text" name="" id="billGiven" class="inputBox"><br>
+		<button onclick="moneyBack(document.getElementById('itemPrice')
+		.value, document.getElementById('billGiven').value);" class="button">Calculate</button>
+  </center>
+	
+	 <center>
+		<p id="answerMessage">Answer</p>
+	</center>
+
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
